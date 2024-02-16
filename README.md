@@ -46,8 +46,7 @@ to any convenient directory.
 
 <h2>Sample command lines</h2>
 
-<code>amqutil</code> is supplied as a Java JAR file (see the Downloads
-section), and should be invoked like this:
+<code>amqutil</code> is supplied as a Java JAR file (see the Packages section), and should be invoked like this:
 
 <pre class="codeblock">
 java -jar /path/to/amqutil.jar [command] {options}
@@ -123,7 +122,7 @@ amqutil help subscribe
 
 <h2>Installing and running amqutil</h2>
 
-You will need the compiled binary JAR file (see the Downloads section
+You will need the compiled binary JAR file (see the Packages section
 below) and a recent Java JVM (Java 7 or later.) To run the utility, 
 install the JAR in any convenient directory, and then:
 
